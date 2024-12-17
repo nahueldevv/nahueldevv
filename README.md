@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I’m Nahuel, a student pursuing a degree in Computer Engineering. I am passionate about technology and its potential to create meaningful solutions. I’m constantly expanding my knowledge in both front-end and back-end development while enjoying the process of building innovative, productive, and creative projects.
+I’m a student pursuing a degree in Computer Engineering. I am passionate about technology and its potential to create meaningful solutions. I’m constantly expanding my knowledge in both front-end and back-end development while enjoying the process of building innovative, productive, and creative projects.
 * **I am passionate about developing web applications and websites.**
 - 🌱 I’m currently learning ...
   - Nestjs
