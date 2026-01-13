@@ -1,76 +1,55 @@
 <h1 align="center">Hi , I'm Nahuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=250 alt="hollow_knight" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+Welcome to my GitHub profile!  
+I’m a **Computer Engineering student** with a strong interest in **web development** and software engineering.
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img align="right" width="260" alt="coding" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
-I’m a student pursuing a degree in Computer Engineering. I am passionate about technology and its potential to create meaningful solutions. I’m constantly expanding my knowledge in both front-end and back-end development while enjoying the process of building innovative, productive, and creative projects.
-* **I am passionate about developing web applications and websites.**
-- 🌱 I’m currently learning ...
-  - Nestjs
-  - Reactjs
-- 👯 I’m looking forward to collaborating on innovative and exciting projects, especially in web development. Feel free to reach out if you'd like to work together!
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside of tech, I enjoy exploring nature, reading news about new technologies, and discovering new music. 🎵📖🌳.
-- 📫 Reach out to me at: <a href="bruno10.bd@gmail.com">bruno10.bd@gmail.com</a>
+I enjoy building **clean, scalable, and functional applications**, constantly improving my skills in both **frontend and backend** technologies.  
+I’m curious about how systems work, passionate about learning new tools, and motivated by turning ideas into real-world solutions.
 
-## My Skills Include
+Here are a few things about me:
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-</span>
+- 🌱 I’m currently learning **NestJS** and improving my skills with **React**
+- 💻 Interested in **full-stack web development**
+- 🤝 Open to collaborating on web and backend projects
+- 🧠 Always learning and exploring new technologies
+- 📫 How to reach me: **bruno10.bd@gmail.com**
 
-<h4> Other Tools and Technologies </h4>
-<span> 
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-</span>
+---
 
+## Tech Stacks
 
-<h4> Check out my Social Media</h4>
-<span>
-  <a href="https://www.instagram.com/nahuel.gmd/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-</span>
+![Static Badge](https://img.shields.io/badge/NodeJS-%235FA04E?logo=nodedotjs&logoColor=%235FA04E&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/ExpressJS-%23000000?logo=express&logoColor=%23FFFFFF&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=%233776AB&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=%FFFFFF&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/FastAPI-%23009688?logo=fastapi&logoColor=%23009688&labelColor=%232A2A2A)
 
-----
+![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%2361DAFB&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=%23E34F26&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=%231572B6&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=%2306B6D4&labelColor=%232A2A2A)
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+![Static Badge](https://img.shields.io/badge/Vite-%20?logo=vite&logoColor=%23FFF&labelColor=%23343434&color=%23646CFF)
 
-[![](https://github-readme-stats.vercel.app/api?username=nahueldevv&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/nahueldevv)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=nahueldevv&theme=material-palenight)](https://github.com/nahueldevv)
-</div>
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=%23FFFFFF&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/pgSQL-%234479A1?logo=postgresql&logoColor=%23FFFFFF&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=%23FFFFFF&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/Git-%23F05033?logo=git&logoColor=%23FFFFFF&labelColor=%232A2A2A)
+![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=%23FFFFFF&labelColor=%232A2A2A)
 
-----
+---
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+## Some reference projects
 
-<!--
-**nahueldevv/nahueldevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|      🚩      |   🎪    |  🎉  |
+| :----------: | :-----: | :--: |
+| Comming Soon | Ongoing | Done |
 
-Here are some ideas to get you started:
+| 🌱 Projects                              | 🍃 Tech Stacks                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎉 [Weather App][demo-weather-app] | ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=%232A2A2A) ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=%23E34F26&labelColor=%232A2A2A) ![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?logo=sass&logoColor=%23CC6699&labelColor=%232A2A2A)|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[demo-weather-app]: https://nahueldevv.github.io/weather-app/
